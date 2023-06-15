@@ -1,6 +1,10 @@
 # MachineLearning_Project-Capstone_BANGKIT2023
 This repo is for recommendation system files for BudgetIN app.
 
+main/recosys : files for recommendation (old)
+
+development/recsys : files for recommendation system (new)
+
 Deployment : 
 FASTAPI
 UVICORN
