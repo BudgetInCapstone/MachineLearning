@@ -2,7 +2,10 @@
 This repo is for recommendation system files for BudgetIN app.
 
 Deployment : 
+FASTAPI
+UVICORN
+GUNICORN
 
-For API using : 
+For recommendation system API using : 
 
-https://capstone-project-387701.et.r.appspot.com/get_resto
+https://servicetwo-dot-capstone-project-387701.et.r.appspot.com//get_resto
